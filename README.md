@@ -38,12 +38,12 @@ az resource list
 
 ### Get what version of the CLI you have
 ```
-azure --version
+az version
 ```
 
 ### Get help
 ```
-azure help
+az help
 ```
 
 ## Creating a basic VM / Resource Group / Storage Account
