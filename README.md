@@ -30,6 +30,10 @@ az account set --subscription "xxx"
 ```
 az account list-locations
 ```
+### List all groups
+```
+az group list
+```
 
 ### List all my resource groups
 ```
@@ -38,12 +42,12 @@ az resource list
 
 ### Get what version of the CLI you have
 ```
-azure --version
+az --version
 ```
 
 ### Get help
 ```
-azure help
+az help
 ```
 
 ## Creating a basic VM / Resource Group / Storage Account
